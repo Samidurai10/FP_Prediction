@@ -21,11 +21,13 @@ body {
     height:100%;
     font-family: 'Open Sans', sans-serif;
     background-image: url("fuel.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position:bottom;
     background-color: #fc5536;
-    color: #e6e0df;
+    color: #e2d9d9;
     font-size: 18px;
     text-align:center;
     letter-spacing:1.2px;
